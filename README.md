@@ -43,8 +43,8 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/arupkumar53" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+  <a href="https://www.facebook.com/profile.php?id=100077894079133" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="32" height="20" alt="facebook logo"  />
   </a>
 </div>
 
