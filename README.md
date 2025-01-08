@@ -16,6 +16,10 @@
 
 ###
 
+<p align="left">Passionate about solving edge cases.</p>
+
+###
+
 <p align="left">📚 I'm currently learning RAG application<br>🎯 Goals: To able to forcast edge cases in software applications.</p>
 
 ###
