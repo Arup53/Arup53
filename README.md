@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning RAG application<br>🎯 Goals: To able to forcast edge cases in software applications.</p>
+<p align="left">📚 I'm currently learning RAG application<br>🎯 Goals: To be able to forcast edge cases in software applications.</p>
 
 ###
 
