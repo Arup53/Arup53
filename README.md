@@ -1,16 +1,10 @@
 <h2 align="center">Hi,  I'm Arup Kumar Howlader</h2>
 
-###
 
-<p align="left">Web-developer</p>
 
-###
 
-<div align="center">
-  <img height="200" src="https://www.vijaytechzone.in/assets/img/page-title/full-stack-web-developer-in-trichy.jpg"  />
-</div>
 
-###
+
 
 <h2 align="left">About me</h2>
 
@@ -44,19 +38,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
 </div>
 
-###
 
-<div align="left">
-  <a href="https://www.facebook.com/profile.php?id=100077894079133" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="32" height="20" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arup53&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arup53&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="" alt="languages graph"  />
-</div>
-
-###
